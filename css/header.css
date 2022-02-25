@@ -8,6 +8,7 @@ header{
     padding-left: 1vw;
     padding-right: 1vw;
     height: 80px;
+    border-bottom: 10px solid #000 ;
 }
 
 header a{
