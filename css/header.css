@@ -45,11 +45,10 @@ a:before {
     padding-left: 20px;
     padding-right: 20px;
     box-shadow: 5px 5px 0 black;
-    
+    transition: all 0.5s ease-in;
 }
 
 #button-menu:hover{
     background-color: #f13753;
-    transition: all 0.5s ease-in;
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
