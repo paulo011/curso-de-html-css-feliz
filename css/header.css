@@ -11,12 +11,6 @@ header{
     border-bottom: 10px solid #000 ;
 }
 
-h1{
-    font-family: 'Press Start 2P';
-    color: #fff;
-    text-shadow: 2px 2px 0 black;
-}
-
 header a{
     display: inline-flex;
     align-items: center;
@@ -51,4 +45,11 @@ a:before {
 #button-menu:hover{
     background-color: #f13753;
     transform: scale(1.03);
+}
+
+h1{
+    font-family: 'Press Start 2P', 'sans-serif';
+    font-size: 40px;
+    color: #F25A70;
+    text-shadow: 4px 4px 0 #000;
 }
