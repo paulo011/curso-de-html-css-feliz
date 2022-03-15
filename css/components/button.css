@@ -1,4 +1,4 @@
-#button-menu{
+.button-menu{
     display: inline-block;
     background-color: #F25A70;
     height: 60px;
@@ -10,7 +10,7 @@
     transition: all 0.5s cubic-bezier(0, 0, 0.09, 2.35);
 }
 
-#button-menu:hover{
+.button-menu:hover{
     background-color: #f13753;
     transform: scale(1.03);
 }
