@@ -50,3 +50,7 @@ table {
 a{
 	text-decoration-line: none;
 }
+
+body{
+    font-family: "Fira Code", "Arial", sans-serif;
+}

@@ -1,8 +1,4 @@
-body{
-    font-family: "Fira Code", "Arial", sans-serif;
-}
-
-header{
+.header{
     background-color: #775b92;
     display: flex;
     justify-content:space-between;
