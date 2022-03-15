@@ -8,6 +8,8 @@
     padding-right: 20px;
     box-shadow: 5px 5px 0 black;
     transition: all 0.5s cubic-bezier(0, 0, 0.09, 2.35);
+    font-size: 20px;
+    color: #fff;
 }
 
 .button-menu:hover{

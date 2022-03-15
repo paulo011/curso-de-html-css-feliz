@@ -1,4 +1,6 @@
-
+body{
+    font-family: "Fira Code", "Arial", sans-serif;
+}
 
 header{
     background-color: #775b92;
@@ -10,25 +12,3 @@ header{
     height: 80px;
     border-bottom: 10px solid #000 ;
 }
-
-a{
-    display: inline-flex;
-    align-items: center;
-    color: aliceblue;
-    font-size: 20px;
-    font-family: "Fira Code", "Arial", sans-serif;
-    font-weight: 500;
-    margin-right: 1vw;
-    text-decoration: none;
-}
-
-header a:before {
-    content: " ";
-    background-color: #F25A70;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
-
-
-
