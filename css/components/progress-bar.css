@@ -1,0 +1,18 @@
+.progress-bar{
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #000;
+    height: 40px;
+    width: 210px;
+
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+
+}
+
+.nivel{
+    background-color: #7C5E99;
+    height: 31px;
+    width: 70%;
+}
