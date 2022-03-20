@@ -3,15 +3,14 @@
     background-color: #fff;
     border: 5px solid #000;
     height: 40px;
-    width: 210px;
+    width: 300px;
 
     display: flex;
     align-items: center;
     justify-content:flex-start;
-
 }
 
-.nivel{
+.progress-bar .nivel{
     background-color: #7C5E99;
     height: 31px;
     width: 70%;
