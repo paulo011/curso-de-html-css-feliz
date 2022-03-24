@@ -22,3 +22,7 @@
 .main-section.-bgpurple{
     background-color: #7C5E99;
 }
+
+.main-section.-bgblack{
+    border-bottom: solid 10px #000;
+}
